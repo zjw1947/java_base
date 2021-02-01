@@ -34,6 +34,10 @@ public class Person {
         System.out.println("方法调取：" + name);
     }
 
+    private void hM(){
+        System.out.println("test");
+    }
+
     @Override
     public String toString() {
         return "Person{" +
