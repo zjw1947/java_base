@@ -12,7 +12,7 @@ package thread.init;
  *      getPriority()  获取线程优先级
  *      setPriority(int p)  设置线程优先级
  *             MAX_PRIORITY  10
- *             MAX_PRIORITY  1
+ *             MIN_PRIORITY  1
  *             NORM_PRIORITY  5  默认优先级
  *        wait()   线程等待
  *        notify()  唤醒其他优先级最高的线程

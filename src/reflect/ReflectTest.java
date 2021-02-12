@@ -5,6 +5,9 @@ import org.junit.Test;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.*;
 
+/**
+ * 反射学习
+ */
 public class ReflectTest {
 
     /**

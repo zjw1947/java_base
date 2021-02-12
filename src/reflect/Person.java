@@ -34,8 +34,13 @@ public class Person {
         System.out.println("方法调取：" + name);
     }
 
-    private void hM(){
-        System.out.println("test");
+    private String ptest(String param){
+        System.out.println(param);
+        return param;
+    }
+
+    public static void useTest(){
+        System.out.println("静态方法");
     }
 
     @Override

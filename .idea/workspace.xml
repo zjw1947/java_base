@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fbf69a4-6d52-40a5-901a-1b5b755ab98f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zjw.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflect/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflect/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflect/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflect/ReflectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/init/FirstInitializeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/init/FirstInitializeThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nsxyhCn1sZwX69HnSRseFb5bxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.LambdaStreamTest.terminatingOperation">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaStreamTest.initTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.lambda" />
+      <option name="MAIN_CLASS_NAME" value="java8.lambda.LambdaStreamTest" />
+      <option name="METHOD_NAME" value="initTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaStreamTest.middleOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.lambda" />
+      <option name="MAIN_CLASS_NAME" value="java8.lambda.LambdaStreamTest" />
+      <option name="METHOD_NAME" value="middleOperation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaStreamTest.terminatingOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.lambda" />
+      <option name="MAIN_CLASS_NAME" value="java8.lambda.LambdaStreamTest" />
+      <option name="METHOD_NAME" value="terminatingOperation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTestTwo.quoteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.lambda" />
+      <option name="MAIN_CLASS_NAME" value="java8.lambda.LambdaTestTwo" />
+      <option name="METHOD_NAME" value="quoteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTestTwo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.lambda" />
+      <option name="MAIN_CLASS_NAME" value="java8.lambda.LambdaTestTwo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LambdaStreamTest.terminatingOperation" />
+        <item itemvalue="JUnit.LambdaStreamTest.middleOperation" />
+        <item itemvalue="JUnit.LambdaStreamTest.initTest" />
+        <item itemvalue="JUnit.LambdaTestTwo.quoteTest" />
+        <item itemvalue="JUnit.LambdaTestTwo.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fbf69a4-6d52-40a5-901a-1b5b755ab98f" name="Default Changelist" comment="" />
+      <created>1612192856103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612192856103</updated>
+      <workItem from="1612192857168" duration="3096000" />
+      <workItem from="1612274045798" duration="2302000" />
+      <workItem from="1612357907620" duration="5087000" />
+      <workItem from="1612448755224" duration="1213000" />
+      <workItem from="1612538736964" duration="615000" />
+      <workItem from="1612629217817" duration="14000" />
+      <workItem from="1612708974707" duration="3488000" />
+      <workItem from="1612791498543" duration="6612000" />
+      <workItem from="1612877759582" duration="6316000" />
+      <workItem from="1612962369949" duration="2167000" />
+      <workItem from="1613049573377" duration="6374000" />
+      <workItem from="1613143346427" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1558" y="426" key="#Inspections" timestamp="1613051475291">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="1558" y="426" key="#Inspections/0.0.2304.1440@0.0.2304.1440" timestamp="1613051475291" />
+    <state x="1260" y="419" key="#com.intellij.ide.util.MemberChooser" timestamp="1612878659282">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="1260" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.2304.1440@0.0.2304.1440" timestamp="1612878659282" />
+    <state width="1622" height="323" key="GridCell.Tab.0.bottom" timestamp="1612969347241">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state width="1622" height="323" key="GridCell.Tab.0.bottom/0.0.2304.1440@0.0.2304.1440" timestamp="1612969347241" />
+    <state width="1622" height="323" key="GridCell.Tab.0.center" timestamp="1612969347241">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state width="1622" height="323" key="GridCell.Tab.0.center/0.0.2304.1440@0.0.2304.1440" timestamp="1612969347241" />
+    <state width="1622" height="323" key="GridCell.Tab.0.left" timestamp="1612969347241">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state width="1622" height="323" key="GridCell.Tab.0.left/0.0.2304.1440@0.0.2304.1440" timestamp="1612969347241" />
+    <state width="1622" height="323" key="GridCell.Tab.0.right" timestamp="1612969347241">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state width="1622" height="323" key="GridCell.Tab.0.right/0.0.2304.1440@0.0.2304.1440" timestamp="1612969347241" />
+    <state x="938" y="667" key="SettingsEditor" timestamp="1613057611165">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="938" y="667" key="SettingsEditor/0.0.2304.1440@0.0.2304.1440" timestamp="1613057611165" />
+    <state x="1089" y="607" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612192869720">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="1089" y="607" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2304.1440@0.0.2304.1440" timestamp="1612192869720" />
+    <state x="1264" y="358" width="600" height="804" key="find.popup" timestamp="1612194164396">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="1264" y="358" width="600" height="804" key="find.popup/0.0.2304.1440@0.0.2304.1440" timestamp="1612194164396" />
+    <state x="1374" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1612963258646">
+      <screen x="0" y="0" width="2304" height="1440" />
+    </state>
+    <state x="1374" y="450" width="672" height="678" key="search.everywhere.popup/0.0.2304.1440@0.0.2304.1440" timestamp="1612963258646" />
+  </component>
+</project>
